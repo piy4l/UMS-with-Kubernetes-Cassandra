@@ -1,0 +1,75 @@
+.rightSide{
+    position: absolute;
+    left: 350px;
+}
+
+.pageHeader{
+    position: relative;
+}
+
+.pageName{
+    font-size: 40px;
+    float: left;
+    width: 400px;
+    padding: 20px;
+
+}
+
+.userName{
+    float: left;
+    font-size: 24px;
+    margin-right: 50px;
+}
+
+.userRoll{
+    float: left;
+    font-size: 24px;
+}
+
+.pageTable{
+    position: relative;
+    top: 100px;
+    left: 100px;
+    font-size: 26px;
+}
+
+th{
+    padding: 20px;
+}
+
+td{
+    padding: 20px;
+}
+
+.pageTable button{
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    position: relative;
+    left: 900px;
+}
+
+.allCourseRequest{
+    width: 100%;
+}
+.ReqCourseTable{
+    width: 100%;
+}
+.courseDetailsReqCourse{
+    position: relative;
+    top: 150px;
+    left: 5%;
+    width: 60%;
+    
+    padding: 10px;
+    background-color: white;
+    border-radius: 30px;   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.reqButtonRight{
+    margin-top: 30px;
+    position: relative;
+    left: 92%;
+}

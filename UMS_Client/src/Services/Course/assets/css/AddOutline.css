@@ -1,0 +1,27 @@
+.subTypeButton{
+    position: relative;
+    margin-top: 20px;
+    left: 85%;
+}
+
+/* .AddType{
+    border-radius: 30px;
+    padding: 20px;
+    /* gray */
+    /* background-color: rgb(205, 235, 253); */
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    /* margin-bottom: 20px;
+} */ 
+
+.AddButtonNewType{
+    width: 150px;
+    margin-top: 30px;
+    margin-bottom: 50px; 
+}
+
+.AddButtonPublish{
+    width: 150px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}

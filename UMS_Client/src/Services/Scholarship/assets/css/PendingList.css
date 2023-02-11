@@ -1,0 +1,39 @@
+.rightSide{
+    position: absolute;
+    left: 350px;
+    width: 75%;
+}
+
+.pageTitle{
+    font-size: 40px;
+    font-weight: 900;   
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.scholarshipDetails{
+    position: relative;
+    top: 50px;
+    left: 100px;
+    width: 900px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 30px;   
+}
+
+.scholarshipDetailsTitle{
+    font-size: 36px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.detailsForm{
+    padding: 30px;
+    background-color: white;
+}
+
+
+.singleScholarship{
+    margin-top: 50px;
+    padding: 10px;
+}

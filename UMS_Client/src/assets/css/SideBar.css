@@ -1,0 +1,62 @@
+.sidebar {
+    position: fixed;
+    height: 100vh;
+    width: 300px;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #fff;
+    overflow-x: hidden;
+    padding-top: 16px;
+  }
+
+.sidebar__logo {
+    display: grid;
+    place-items: center;
+    height: 120px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: 'Mochiy Pop P one', sans-serif;
+}
+
+  
+  .title{
+    color: #0069d9;
+    font-weight: 900;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 40px;
+    margin-top: 25px;
+  }
+
+  hr{
+    border-top: 2px solid;
+    width: 80%;
+    position: relative;
+    /* make it in middle horizontally */
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+  }
+
+.navigationUpper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.navigationLower{
+  margin-top: 20px;
+}
+
+.navigationBottom{
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.whoosePortal{
+  margin-top: 20px; 
+  color: black;
+}

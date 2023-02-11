@@ -1,0 +1,31 @@
+.rightSide{
+    position: absolute;
+    left: 350px;
+}
+
+.pageHeader{
+    position: relative;
+}
+
+.pageName{
+    font-size: 40px;
+    float: left;
+    width: 400px;
+    padding: 20px;
+
+}
+
+.userName{
+    float: left;
+    font-size: 24px;
+    margin-right: 50px;
+}
+
+.userRoll{
+    float: left;
+    font-size: 24px;
+}
+
+.pageTable{
+    position: relative;
+}

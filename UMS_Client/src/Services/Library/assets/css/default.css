@@ -1,0 +1,14 @@
+.def{
+    padding-left: 20%;
+}
+
+.box{
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.search{
+    width: 25%;
+    position: relative;
+    right: 0;
+}

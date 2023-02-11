@@ -1,0 +1,57 @@
+.form-div{
+    position: relative;
+    top: 12rem;
+    left: 60rem;
+    width: 25%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.loginHeader{
+    text-align: center;
+    font-weight: 900;
+    color: #0069d9;
+    margin-bottom: 45px;
+}
+
+.selectLogin{
+    width: 100%;
+    padding: 10px;
+    background-color: #0069d9;
+    color: white;
+    font-size: large;
+    font-weight: 800;
+    text-align: center;
+}
+
+.formGroup{
+    margin-bottom: 30px;
+}
+.formSubmit{
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.formSubmitButton{
+    width: 60%;
+    font-weight: 800;
+}
+
+hr.solid {
+    border-top: 2px dashed #bbb;
+}
+
+.imageDiv{
+    position: absolute;
+    top: 12rem;
+    left: 10rem;
+    width: 50%;
+}
+
+.imageDiv img{
+    width: 700px;
+    height: 500px;
+}
